@@ -10,7 +10,7 @@ This is a Spring Boot application that calculates the shortest land route betwee
 
 ## Requirements
 
-- Java 11 or higher
+- Java 21 or higher
 - No need to install Maven; the project uses the Maven Wrapper (`mvnw`).
 
 ## Running the Application
