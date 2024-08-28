@@ -20,7 +20,7 @@ You can build and run the application directly using the Maven Wrapper. Follow t
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/country-routing-service.git
+    git clone https://github.com/nruzic/countries.git country-routing-service
     cd country-routing-service
     ```
 
